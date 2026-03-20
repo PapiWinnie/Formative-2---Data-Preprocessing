@@ -86,7 +86,7 @@ python scripts/task6_system_simulation.py --unauthorized
 
 ## Demo
 
-To record the demo, run these four commands in order and capture the terminal output:
+(https://drive.google.com/file/d/16KhhjHoM0BnXn4K1h-boRHjJEzZkM0yw/view)
 
 ```bash
 ls features/ models/
@@ -95,22 +95,3 @@ python scripts/task6_system_simulation.py --member member_2
 python scripts/task6_system_simulation.py --unauthorized
 ```
 
----
-
-## Deliverables Checklist
-
-- [x] `features/merged_dataset.csv`
-- [x] `features/image_features.csv`
-- [x] `features/audio_features.csv`
-- [x] `features/eda_plots.png`
-- [x] `features/image_samples.png`
-- [x] `features/image_augmentations.png`
-- [x] `features/audio_visualizations.png`
-- [x] `features/audio_augmentations.png`
-- [x] `models/face_model.pkl`
-- [x] `models/voice_model.pkl`
-- [x] `models/product_model.pkl`
-- [x] `notebooks/formative2_notebook.ipynb`
-- [x] `scripts/task6_system_simulation.py`
-- [ ] Video demo link
-- [ ] GitHub repository link
